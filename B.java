@@ -1,6 +1,6 @@
 public class B{
-  private int x;
-  public B(int x){
+  private int x,y;
+  public B(int x,int y){
 this.x=x;
   }
 public B(){
