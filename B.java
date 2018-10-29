@@ -1,5 +1,5 @@
 public class B{
-  public B(){
+  public B(int x){
 
   }
 }
