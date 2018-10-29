@@ -4,6 +4,6 @@ public class B{
 this.x=x;
   }
 public B(){
-   x=5;
+   x=5;y=5;
  }
 }
